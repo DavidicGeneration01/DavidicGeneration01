@@ -20,6 +20,8 @@ I'm David Alade, a dedicated and detail-oriented Web Developer with a strong pas
 
 <h2>Skills & Technologies</h2>
 <ol>
+  ## Skills & Technologies
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white)
