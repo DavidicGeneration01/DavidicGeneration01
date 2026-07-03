@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm David Alade 👋</h1>
 <p align="center">
-  <em>A passionate Web Developer building modern, scalable, and user-friendly web applications.</em>
+  <em>A passionate Data Analyst, I have Associate Degree is Web Development at BYU-Idaho.</em>
 </p>
 <p align="center">
   <a href="https://github.com/DavidicGeneration01">
