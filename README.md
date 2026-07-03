@@ -9,19 +9,16 @@
 </p>
 
 <h2>About Me</h2>
-I'm David Alade, a dedicated and detail-oriented Web Developer with a strong passion for crafting clean, efficient, and scalable web solutions. I specialize in full-stack development, from designing intuitive user interfaces to building robust backend systems and APIs.
+I am a data and software professional with experience building end-to-end solutions using Python, SQL, and modern web technologies. My expertise spans data processing, statistical analysis, machine learning, data modeling, and interactive data visualization. I enjoy transforming raw data into actionable insights through tools like Streamlit, Matplotlib, Power BI, and Tableau.
 
-- Based in Abuja, Nigeria
-- Currently working on exciting full-stack web projects
-- Always learning and exploring new technologies
+Beyond analytics, I develop scalable applications using JavaScript, TypeScript, React, Next.js, Node.js, Express.js, REST APIs, and MongoDB. I also have experience with cloud computing, Microsoft Azure, process automation, and AI-powered workflows. I am passionate about solving real-world problems with clean, efficient, and user-focused solutions while continuously expanding my technical skills.
+
 - Ask me about React, Node.js, REST APIs, and MongoDB
 - Reach me at: aladedavid4@gmail.com
 - Fun fact: I love turning complex problems into simple, elegant solutions
 
 <h2>Skills & Technologies</h2>
 <ol>
-  ## Skills & Technologies
-
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white)
