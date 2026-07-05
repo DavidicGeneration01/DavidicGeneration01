@@ -19,33 +19,33 @@ Beyond analytics, I develop scalable applications using JavaScript, TypeScript, 
 
 <h2>Skills & Technologies</h2>
 <ol>
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![Data Processing](https://img.shields.io/badge/Data_Processing-FF6F00?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Data Modeling](https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge&logo=databricks&logoColor=white)
-  ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-226852?style=for-the-badge&logo=r&logoColor=white)
-  ![Data Visualization](https://img.shields.io/badge/Data_Visualization-41B883?style=for-the-badge&logo=chart.js&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-  ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-  ![Data Integration](https://img.shields.io/badge/Data_Integration-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
-  ![AI Automation](https://img.shields.io/badge/AI_Automation-412991?style=for-the-badge&logo=openai&logoColor=white)
-  ![Process Automation](https://img.shields.io/badge/Process_Automation-00A699?style=for-the-badge&logo=uipath&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![REST API](https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></li>
+  <li><img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" /></li>
+  <li><img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" /></li>
+  <li><img src="https://img.shields.io/badge/Data_Processing-FF6F00?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Processing" /></li>
+  <li><img src="https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling" /></li>
+  <li><img src="https://img.shields.io/badge/Statistical_Analysis-226852?style=for-the-badge&logo=r&logoColor=white" alt="Statistical Analysis" /></li>
+  <li><img src="https://img.shields.io/badge/Data_Visualization-41B883?style=for-the-badge&logo=chart.js&logoColor=white" alt="Data Visualization" /></li>
+  <li><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></li>
+  <li><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></li>
+  <li><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" alt="Power BI" /></li>
+  <li><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></li>
+  <li><img src="https://img.shields.io/badge/Cloud_Computing-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Cloud Computing" /></li>
+  <li><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" /></li>
+  <li><img src="https://img.shields.io/badge/Data_Integration-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Data Integration" /></li>
+  <li><img src="https://img.shields.io/badge/AI_Automation-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" /></li>
+  <li><img src="https://img.shields.io/badge/Process_Automation-00A699?style=for-the-badge&logo=uipath&logoColor=white" alt="Process Automation" /></li>
+  <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></li>
+  <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></li>
+  <li><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></li>
+  <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></li>
+  <li><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></li>
+  <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></li>
+  <li><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></li>
+  <li><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></li>
+  <li><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></li>
+  <li><img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /></li>
+  <li><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></li>
 </ol>
 
 <h2>Projects & Work</h2>
